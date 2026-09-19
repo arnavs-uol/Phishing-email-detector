@@ -5,3 +5,5 @@ venv/
 .vscode/
 Thumbs.db
 .env
+data/raw/
+data/processed/
